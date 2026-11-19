@@ -1,3 +1,1 @@
-# 鸣谢
-ZYYO666
-github: https://github.com/ZYYO666
+编译后的svelte代码
